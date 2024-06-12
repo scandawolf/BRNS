@@ -1,1 +1,15 @@
-{"name":"ByronSnake","symbol":"BRNS","description":"Byron is a big dog with a green Snake. He takes the snake anywhere.","image":"https://raw.githubusercontent.com/scandawolf/BRNS/main/logo.png","attributes":[],"properties":{"files":[{"uri":"https://raw.githubusercontent.com/scandawolf/BRNS/main/logo.png","type":"image/png"}]}}
+{
+  "name": "ByronSnake",
+  "symbol": "BRNS",
+  "description": "Byron is a big dog with a green Snake. He takes the snake anywhere.",
+  "image": "https://raw.githubusercontent.com/scandawolf/BRNS/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/scandawolf/BRNS/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
